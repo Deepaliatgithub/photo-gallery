@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: coral;
+    font-size: 15px;
+}
+
+div {
+    margin-top: 50px;
+
+}
+
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+#myCarousel {
+
+    background-color: chocolate;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: aliceblue;
+    font-size: 20px;
+
+
+
+
+}
